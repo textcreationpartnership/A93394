@@ -1,0 +1,550 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Satans temptation, and Gods preservation: or Satans policy and Gods mercy most lively and amply set forth in the discovery of the several temptations, desertions, troubles, and afflictions, that have accompanied the life of Robert Smith of Ludshelf, alias Litchfield, in the county of Southampton, gent. Wherein is discovered the method that Satan took in the several gradations thereof. With an accompt of the life of the author. Published for the benefit, comfort, and support, of any of Gods servants, that now are, or shall be, cast into such a deplorable condition.</title>
+            <author>Smith, Robert, fl. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93394</idno>
+            <idno type="STC">Wing S4163</idno>
+            <idno type="STC">ESTC R231576</idno>
+            <idno type="EEBO-CITATION">99896843</idno>
+            <idno type="PROQUEST">99896843</idno>
+            <idno type="VID">137080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Satans temptation, and Gods preservation: or Satans policy and Gods mercy most lively and amply set forth in the discovery of the several temptations, desertions, troubles, and afflictions, that have accompanied the life of Robert Smith of Ludshelf, alias Litchfield, in the county of Southampton, gent. Wherein is discovered the method that Satan took in the several gradations thereof. With an accompt of the life of the author. Published for the benefit, comfort, and support, of any of Gods servants, that now are, or shall be, cast into such a deplorable condition.</title>
+                  <author>Smith, Robert, fl. 1685.</author>
+               </titleStmt>
+               <extent>[16], 77, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Downing for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [16]: Robert Smith.</note>
+                  <note>Reproduction of original in the Congregational Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>God --  Attributes --  Early works to 1800.</term>
+               <term>Temptation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137080:1"/>
+            <pb facs="tcp:137080:1" rendition="simple:additions"/>
+            <p>Satans Temptation, AND Gods Preſervation: OR SATANS POLICY AND Gods Mercy,
+<list>
+                  <item>Moſt Lively and Amply ſet forth in the Diſcovery of the ſeveral Temptations, De<g ref="char:EOLhyphen"/>ſertions, Troubles, and Afflictions, that have accompanied the Life of <hi>Robert Smith</hi> of <hi>Ludſhelf,</hi> alias <hi>Litchfield,</hi> in the County of <hi>Southampton,</hi> Gent.</item>
+                  <item>Wherein is Diſcovered the Method that Sa<g ref="char:EOLhyphen"/>tan took in the ſeveral Gradations thereof. With an Accompt of the Life of the Author.</item>
+                  <item>Publiſhed for the Benefit, Comfort, and Sup<g ref="char:EOLhyphen"/>port, of any of Gods Servants, that now are, or ſhall be, caſt into ſuch a Deplorable Condition.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Veritas Stat in aperto Campo, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William Downing</hi> for the Author, <hi>Anno Dom.</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:137080:2"/>
+            <pb facs="tcp:137080:2"/>
+            <head>To the Honourable Colonel <hi>John Dean</hi> of <hi>Oxenwood,</hi> one of His Majeſties Deputy Lievtenants for the County of <hi>Southamp<g ref="char:EOLhyphen"/>ton;</hi> and <hi>Robert Oxen<g ref="char:EOLhyphen"/>bregge</hi> of <hi>Piddle Trent<g ref="char:EOLhyphen"/>hide,</hi> 
+               <abbr>Eſq</abbr> one of the Juſtices of the Peace for the County of <hi>Dorſet.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Gentlemen,</salute>
+            </opener>
+            <p>I Here Preſent you with a Review in Particular of that which in General
+<pb facs="tcp:137080:3"/>your ſelves were no ſtran<g ref="char:EOLhyphen"/>gers to.</p>
+            <p>The Reaſons that indu<g ref="char:EOLhyphen"/>ced me to this Publication, were,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The Advice of ſome grave Divines and others, upon the Conſideration of the Good that many a weak and diſtreſſed Member of the Church of God might receive thereby; to which magnificent Structure, if I could but add one Stone, I ſhould think my ſelf happy in ſo doing, for <hi>Afflictis
+<pb facs="tcp:137080:3"/>opitulari munificum eſt.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> That I might not omit to make ſome grateful re<g ref="char:EOLhyphen"/>turn of Praiſe and Thanks-giving, in an eminent and publick manner, to the God of all Mercies, which in a way and meaſure ſo ex<g ref="char:EOLhyphen"/>traordinary and marvel<g ref="char:EOLhyphen"/>lous, did ſhew his goodneſs towards me, hath conſi<g ref="char:EOLhyphen"/>dered my Trouble, and known my Soul in Adver<g ref="char:EOLhyphen"/>ſities. If for the leaſt of Gods favours we owe to
+<pb facs="tcp:137080:4"/>Him an Hymn of Thanks-giving, then ſurely we ought to ſpeak abroad of all his wonderous works.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> That by this publication of things in particular, I might more particularly expreſs my thankful ac<g ref="char:EOLhyphen"/>knowledgment of all your ſingular favours moſt un<g ref="char:EOLhyphen"/>deſervedly confer'd upon me in this time of my Con<g ref="char:EOLhyphen"/>flict, (as well as at other times) ſince I have had the honour of a long acquain<g ref="char:EOLhyphen"/>tance with you.</p>
+            <pb facs="tcp:137080:4"/>
+            <p> The reaſon (moſt worthy Friends) that I have de<g ref="char:EOLhyphen"/>fer'd the <hi>Publication</hi> thereof this many Years, was, That I might have ſome Probation of my ſelf, whereby I might fully ex<g ref="char:EOLhyphen"/>perience the ſound Conſti<g ref="char:EOLhyphen"/>tution of my Body and Mind; and although ſome for whoſe ſake this is in<g ref="char:EOLhyphen"/>tended (and I hope they by my Conflict, as I by others, may receive ſome benefit) may think it long e're I made this Publick; yet the
+<pb facs="tcp:137080:5"/>great Enemy of Mankind may think it too ſoon, be<g ref="char:EOLhyphen"/>cauſe moſt of his Serpen<g ref="char:EOLhyphen"/>tine Wiles and Artifices, his falſe and deceitful Arguings, are here expo<g ref="char:EOLhyphen"/>ſed and Confuted. And although I publiſh this not for any Oſtentation of mine own,
+<note place="margin">1 Cor. 4.7.</note> (for what have we that we have not received) but to the Praiſe and Glory of my Creator and Redeemer, and the good of his Church, into whoſe Treaſury, if I can caſt but
+<pb facs="tcp:137080:5"/>in one Mite,
+<note place="margin">Mark. 12.44.</note> I ſhould think my ſelf happy. And be<g ref="char:EOLhyphen"/>cauſe the Subject thereof is againſt him that is <hi>Ab<g ref="char:EOLhyphen"/>baddon</hi> and <hi>Apollion,</hi> a Deſtroyer, as being a Deceiver, I ſhall take care that he ſhall be able to ob<g ref="char:EOLhyphen"/>ject nothing of that nature againſt me, by repreſenting all things in this Diſ<g ref="char:EOLhyphen"/>courſe with the greateſt Veracity, as being moſt re<g ref="char:EOLhyphen"/>pugnant to his Nature,
+<note place="margin">John 8.44.</note> who was a Lyar from the beginning.</p>
+            <pb facs="tcp:137080:6"/>
+            <p> But whereas it may be doubted, how I ſhould re<g ref="char:EOLhyphen"/>member the ſeveral ſteps and gradations thereof in particular after ſo long a time: For Satisfaction herein, be pleaſed to know, That although I durſt not adventure the recapitula<g ref="char:EOLhyphen"/>tion of things too ſoon, yet I was not too remiſs in per<g ref="char:EOLhyphen"/>petuating a Memorial of ſo remarkable a paſsage of my Life, by a Collection of the heads thereof in Wri<g ref="char:EOLhyphen"/>ting, which hath enabled
+<pb facs="tcp:137080:6"/>me in this undertaking. As to the truth of things here related, next to the teſtimony of a good Conſci<g ref="char:EOLhyphen"/>ence, I have for my ſupport your Atteſtation, whoſe known Juſtice is ſuch, that as it will not Patronize any thing that is falſe, ſo your Clemency is ſo great, as will not be wanting to Coun<g ref="char:EOLhyphen"/>tenance any thing that is True: And if in any thing I ſeem to make too much digreſsion, by inſerting too much of the particulars of
+<pb facs="tcp:137080:7"/>my Birth and Life; I know you have Candor enough to overlook the ſame, for con<g ref="char:EOLhyphen"/>ſidering that many perſons have taken the liberty to Write the Lives of others, I hope the like freedome may not be denied me to Write my Own, no perſon knowing the ſeveral paſſa<g ref="char:EOLhyphen"/>ges thereof more then my Self: And ſeeing I have Selected thoſe things that Subſtract, as well as add to my Reputation, the one to be matter of Humilia<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:137080:7"/>the other to be mat<g ref="char:EOLhyphen"/>ter of Praiſe and Thanks-giving: I hope I may not be ſuſpected for partia<g ref="char:EOLhyphen"/>lity, and the rather, be<g ref="char:EOLhyphen"/>cauſe it is for the ſatiſ<g ref="char:EOLhyphen"/>faction of my Reader, who muſt neceſſarily enquire in<g ref="char:EOLhyphen"/>to the forepaſt Life, which had ſuch ſubſequent dire<g ref="char:EOLhyphen"/>ful Effects; for although I cannot excuſe my Self from many Faults and Er<g ref="char:EOLhyphen"/>rors of my Life,
+<note place="margin">2 Chron. 6.36.</note> 
+               <hi>For who Liveth that Sinneth not?</hi> Yet I know not any
+<pb facs="tcp:137080:8"/>Capital Fact that might more particularly occaſion this my ſad dejection.</p>
+            <p>Therefore (to avoid pro<g ref="char:EOLhyphen"/>lixity) let no man that hath, is, or ſhall be, caſt into ſuch a deplorable Eſtate of de<g ref="char:EOLhyphen"/>ſertion and Melancholy, think that his Condition is ſingular; for although the Method that <hi>Satan</hi> uſeth may be different, yet there may be ſomething in one, that may Simpathize with another, which may afford matter of comfort and con<g ref="char:EOLhyphen"/>ſolation:
+<pb facs="tcp:137080:8"/>and however, let no perſon whatſoever de<g ref="char:EOLhyphen"/>ſpair of Cure, Peace, and Reſtauration, who hath me hitherto for an Example, who am, and deſire to ap<g ref="char:EOLhyphen"/>prove my ſelf to God Al<g ref="char:EOLhyphen"/>mighty, a living and lively Monument of his Grace and Mercy.</p>
+            <p>Thus, good Sirs, craving your Pardon for this Pre<g ref="char:EOLhyphen"/>ſumptuous Dedication, I commit you to the Protecti<g ref="char:EOLhyphen"/>on of the Almighty, that hath wonderfully preſerv'd
+<pb facs="tcp:137080:9"/>and Bleſſed you hitherto, deſiring him to return your many kindneſſes &amp; favours towards me ſevenfold, giv<g ref="char:EOLhyphen"/>ing you a long opportunity of doing good in this world, and at length Crowning you with everlaſting Glory, which is, and always ſhall be, the hearty and fervent Prayer of him, who is,</p>
+            <closer>
+               <salute>Moſt Worthy Gentlemen,</salute>
+               <signed>Your much Devoted, Obliged, and moſt humble Orator and Servant, ROBERT SMITH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137080:9"/>
+            <head>Satans Temptation, AND Gods Preſervation: OR, Satans Policy, AND Gods Mercy.</head>
+            <head type="sub">Diſcovered in the following Relation, with Obſervations and Remarks thereupon.</head>
+            <opener>
+               <salute>Chriſtian, Courteous, and Candid Reader.</salute>
+            </opener>
+            <p>I HERE offer to thy View, not only things I have Read and Heard of, but Felt, my Perſon being the Stage on which this Tragedy was Acted; but by the Mercy
+<pb n="2" facs="tcp:137080:10"/>of God I became the Victor: And now ſince Experimental Knowledge is by all agreed to be moſt Authentick; I there<g ref="char:EOLhyphen"/>fore thought this ſubſequent Relation might not be alto<g ref="char:EOLhyphen"/>gether unuſeful.</p>
+            <p>The place where firſt I drew my Natural Breath, was <hi>Titcombe,</hi> in the County of <hi>Wilts;</hi> The time of my Birth, <hi>December</hi> the Thirteenth, One Thouſand Six Hundred and Thirty; One of, if not the ſhorteſt Day and longeſt Night of the Year; It may be Pre<g ref="char:EOLhyphen"/>ſaging a long Night of Afflicti<g ref="char:EOLhyphen"/>on that was to follow. I was the Seventh Son of my Parents, they having Nine Children, two Daughters firſt, and Seven
+<pb n="3" facs="tcp:137080:10"/>Sons after, my ſelf being the laſt, an <hi>Omen</hi> alſo it may be of ſomething — Remarkable. My Father was Miniſter of that place, a Man of no mean Birth, my Grand-Father being a Mem<g ref="char:EOLhyphen"/>ber of the Common-Council of the City of <hi>London,</hi> and Alderman of his Ward: But my Father was Cheated of his Eſtate by his after Father-in-Law:
+<note place="margin">
+                  <hi>Lord</hi> Danvers <hi>of</hi> Glimp<g ref="char:EOLhyphen"/>ton <hi>in the County of</hi> Oxon.</note> My Grand-Mother de<g ref="char:EOLhyphen"/>ſcended of an Honourable Fa<g ref="char:EOLhyphen"/>mily. My Fathers Preferment, as Vicar of <hi>Titcombe,</hi> was but Mean, but his Parts not ſo, having given Probation there<g ref="char:EOLhyphen"/>of in his Eighth Sermon at St. <hi>Maries</hi> in <hi>Oxon</hi> before Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> and Dr. <hi>Prideaux,</hi> who both gave him their commen<g ref="char:EOLhyphen"/>datory
+<pb n="4" facs="tcp:137080:11"/>Thanks: His Degree Maſter of Arts, <hi>Quotemporary,</hi> and Chamber-Fellow with Dr. <hi>Featly</hi> in <hi>Corpus Chriſti Colledge</hi> in <hi>Oxon.</hi> His Knowledge was not little in the Tongues, eſpe<g ref="char:EOLhyphen"/>cially in the <hi>Greek,</hi> which gave encouragement to ſeveral Ho<g ref="char:EOLhyphen"/>nourable Families to commit the Tuition of their Sons to his Boarding Inſtruction:
+<note place="margin">Hunger<g ref="char:EOLhyphen"/>fords <hi>and</hi> Pyles.</note> By which Augmentation of main<g ref="char:EOLhyphen"/>tenance he was enabled to breed two of his Sons to and at the Univerſity,
+<note place="margin">Ludſhelf <hi>in the County of</hi> South<g ref="char:EOLhyphen"/>hampton</note> the one Rector of this place; my ſelf, as a third, intended by him for the ſame, who, by his Inſtruction, had made ſome good Progreſs thereunto, and whom he (as himſelf ſaid) intended for
+<pb n="5" facs="tcp:137080:11"/>the Study of Phyſick, [being a <hi>Seventh Son,</hi> and ſo having ſome affinity to that Worthy Profeſſion.] And in regard my Fathers Means and Fortune was but ſhort and narrow, though at that time poſſeſt of a good Parſonage of 120 pound,
+<note place="margin">Bang<g ref="char:EOLhyphen"/>hurſt <hi>in the Coun<g ref="char:EOLhyphen"/>ty of</hi> South<g ref="char:EOLhyphen"/>hampton</note> or 140 pound <hi>per an<g ref="char:EOLhyphen"/>num,</hi> which by reaſon of Age, and Inability of Body and Mind, he thought fit to reſign to my Brother to Officiate, reſerving but little to himſelf. I was at firſt Inforc'd (though Young) to the Teaching of a Private School for ſome ſhort time; and the hopes of my Fathers intended Deſign was now at a period: Arguments were by my Brother (to eaſe
+<pb n="6" facs="tcp:137080:12"/>himſelf of charge) propound<g ref="char:EOLhyphen"/>ed, <hi>viz. That Learning, as times then ſtood, would become of little Credit, much leſs Pre<g ref="char:EOLhyphen"/>ferment: That a Trade would be better, more certain, and du<g ref="char:EOLhyphen"/>rable;</hi> by which, I was per<g ref="char:EOLhyphen"/>ſwaded to Steer my courſe for <hi>London,</hi> where Lying in a Taylors Houſe, which alſo (in thoſe times) was a Solicitor, a Man of ſtrong Natural Parts, and having a great Faculty in Sueing of Attorneys and others upon Indirect practices: But lying ſometime without Im<g ref="char:EOLhyphen"/>ployment, and Money grow<g ref="char:EOLhyphen"/>ing ſhort, his Wife taking no<g ref="char:EOLhyphen"/>tice thereof, and of my Youth, ſeduced me to a Living with her Husband, which I did, to
+<pb n="7" facs="tcp:137080:12"/>avoid a worſe condition, for about the ſpace of one Year, not two, not ſo much as a Servant, as a Companion; my little uſe of a Pen conducing much to his advantage, being an Illiterate Man: But this way began to be uneaſie, as not ſuitable to my Humour and Education, ſo paying of him Ten pound (which Friends had Lent me) I acquitted my ſelf of that condition, and en<g ref="char:EOLhyphen"/>deavoured to find out another, and at laſt, a Friend of mine intending the change of his own Imployment, recommen<g ref="char:EOLhyphen"/>ded me to ſucceed him in the attendance of a Perſon of Qua<g ref="char:EOLhyphen"/>lity,
+<note place="margin">Nath. Stephens <hi>of</hi> Eaſton <hi>in County</hi> Glouceſt. <hi>Eſq;</hi>
+               </note> one of the Knights of the Shire for the County of <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi>
+               <pb n="8" facs="tcp:137080:13"/>who underſtanding me to be the Son of a Divine, uſed me with more Reſpect: A Barreſter at Law he was, one of his Sons, and Son in Law, being Eminent Practicers, the one at the <hi>Exchequer-Bar,</hi>
+               <note place="margin">
+                  <hi>Serjeant</hi> Stephens <hi>Sir</hi> John Stowel.</note> the o<g ref="char:EOLhyphen"/>ther in his Chamber; for whom I did ſome buſineſs in the way of <hi>Clerk-ſhip;</hi> wherein I took ſuch delight, that I endeavour<g ref="char:EOLhyphen"/>ed an Improvement thereof in the ſeveral Hands, both Long and Short, Reading Books of Preſidents, obſerving the Practice of the ſeveral Courts in <hi>Weſtminſter-Hall,</hi> Living near thereunto, and having much leaſure time; I ſpent much of the ſame (I wiſh more) in Reading and Study
+<pb n="9" facs="tcp:137080:13"/>for the ſpace of Four years: but having as all men by Nature have, the Seeds of Pride and Ambition, I changed my Sta<g ref="char:EOLhyphen"/>tion, not my Condition, thoſe ſhort liv'd <hi>Juncto's</hi> in the <hi>Oli<g ref="char:EOLhyphen"/>verian</hi> times fruſtrating my hoped for Atcheivements. At length by the recommendation of a Gentleman of Quality,
+<note place="margin">
+                  <hi>Sir</hi> Rich. Knightly <hi>of</hi> Fawſly <hi>in the County of</hi> North<g ref="char:EOLhyphen"/>hampton</note> I was preferred to the ſervice of an honourable and prudent Gentleman, and of a great E<g ref="char:EOLhyphen"/>ſtate, a Barreſter alſo at Law, and one whoſe Abilities in di<g ref="char:EOLhyphen"/>vers Parliaments (not <hi>Olive<g ref="char:EOLhyphen"/>rian</hi>) and Council of State, (not Safety) was to moſt known Men ſufficiently known throughout the Kingdom, with whom I lived about Six years,
+<pb n="10" facs="tcp:137080:14"/>who, after ſome continuance with him, intruſted me with matters of no ſmall weight; and whoſe confidence of my Fidelity was ſo great, that tho I ſeveral times importun'd him with all imaginable earneſt<g ref="char:EOLhyphen"/>neſs to take my Accompts, would not be prevailed with to do the ſame, which after his Death proved to me no little Grief, as then wanting his Ratification and Atteſtation, who was onely Privy to the Tranſaction. He being Dead, all the hopes of my Preferment was Buried with him, of which I could not, if he had Lived, but promiſe my ſelf probable hopes, he being by the Lord Cancellor <hi>Hide</hi> and Viſcount
+<pb n="11" facs="tcp:137080:14"/>
+               <hi>Herefords</hi> means, introduced in<g ref="char:EOLhyphen"/>to his late Majeſties favour, who declared his Kindneſs to him: And I might be the more encouraged to cherriſh theſe hopes, becauſe my immediate Predeceſſor but one had in three Years time not gained leſs then 1500 pounds in being Clerk to that Committee of which he was Chairman for Exchange of Priſoners. The life of Man being thus uncertain, as <hi>Hodie Rex Cras Cadaver,</hi> all depen<g ref="char:EOLhyphen"/>dencies thereon are vain, which makes men of low degree Va<g ref="char:EOLhyphen"/>nity, and men of high degree a Lye;
+<note place="margin">Pſalm 62.9.</note> and it is in vain to put confidence in Princes, or in the Sons of Men. This Honour<g ref="char:EOLhyphen"/>able Gentleman, and my Be<g ref="char:EOLhyphen"/>loved
+<pb n="12" facs="tcp:137080:15"/>Maſter, being Dead, I had (amongſt others) commit<g ref="char:EOLhyphen"/>ted to me the care of his Em<g ref="char:EOLhyphen"/>balming, in order to his Inter<g ref="char:EOLhyphen"/>ment in the Country; and be<g ref="char:EOLhyphen"/>ing willing to ſatisfie my Curi<g ref="char:EOLhyphen"/>oſity in the opening of his Bo<g ref="char:EOLhyphen"/>dy, from whence (as I conceiv<g ref="char:EOLhyphen"/>ed) ſome Vapours affected my Head. And altho I continued with my Lady ſome Months after, yet my condition was full of dolour and uncomfortable, tho carried off with as much ſtrength as Nature could afford. My Ladies deſired ſtay being at an end, I withdrew my ſelf to a Friends houſe in St. <hi>Martins</hi> Lane, near <hi>Covent-Garden,</hi> where being in a diſcompoſed Sleep, I heard a fluttering noiſe
+<pb n="13" facs="tcp:137080:15"/>as if it were in the Chimney, and a voice (as by me underſtood) ſaying, <hi>Where is your Doctor</hi> Manton <hi>now?</hi> A Man by me held in great Veneration for his Learning, publick Abilities, and good Life, though it may be not without Errors, from which no Man can pretend an exemption. My Diſtemper growing higher by my too much Muſing on my Condition, I imparted the ſame to ſeveral worthy Friends, both Divines and others, whoſe Prayers and Tears were not wanting in condoling my Con<g ref="char:EOLhyphen"/>dition, and Praying for my Recovery.</p>
+            <p>My Caſe being thus, I thought it beſt, having an on<g ref="char:EOLhyphen"/>ly Brother in the Country a Di<g ref="char:EOLhyphen"/>vine,
+<pb n="14" facs="tcp:137080:16"/>whoſe houſe I made choice of for the place of my Retirement, and unto whoſe Care and Counſel I committed my ſelf, who was not wanting in procuring all help by Phiſi<g ref="char:EOLhyphen"/>tians to my Body, and by Re<g ref="char:EOLhyphen"/>verend Divines, to afford all good Counſel to my Soul, as Faſting and Prayer, for the re<g ref="char:EOLhyphen"/>covery of my inward Man, who was then fallen into ſo ſad dejection, both of Body and Mind, that I was ſo diſquieted, that I had not I think one hour of quiet reſt from the Month of <hi>May,</hi> till the Month of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> following: But loe here the Power and Mercy of the Almighty was ſeen, That altho a <hi>Fontinel</hi> was made by a hot
+<pb n="15" facs="tcp:137080:16"/>Iron in my Head, yet tho ſen<g ref="char:EOLhyphen"/>ſible thereof, diſturbed me not, though the benefit of Nature was wanting for a fortnight or three weeks together, though Phyſick of the ſtrongeſt Nature never wrought, tho reſt ceaſed,
+<note place="margin">Ez. 9.15.</note> yet God preſerved me alive as at this day.</p>
+            <p>In this mine Agony and Con<g ref="char:EOLhyphen"/>flict, Satan was not wanting in his Temptations, whoſe Me<g ref="char:EOLhyphen"/>thod in order I ſhall diſcover in theſe following Suggeſtions.</p>
+            <div n="1" type="part">
+               <head>I. Suggeſtion.</head>
+               <p>That certainly I did not be<g ref="char:EOLhyphen"/>long to God, becauſe ſuch dread<g ref="char:EOLhyphen"/>ful Afflictions had befallen me.</p>
+               <p>And here I think it will not be amiſs for Illuſtration ſake,
+<pb n="16" facs="tcp:137080:17"/>by way of Dialogue between <hi>Satan</hi> and the <hi>Sinner,</hi> to ſet forth <hi>Satans</hi> Aſſaults, and the <hi>Sinners</hi> Repulſes, for tho I dare not ſay that all theſe In<g ref="char:EOLhyphen"/>ſinuations, and the Reſponſes thereof were <hi>Modo &amp; forma,</hi> dilated upon in my late Con<g ref="char:EOLhyphen"/>flict, yet the Heads and Mat<g ref="char:EOLhyphen"/>ter thereof were: And me<g ref="char:EOLhyphen"/>thinks I remember him begin<g ref="char:EOLhyphen"/>ing (as to our firſt Parents) his Parley and Speaking to my Fancy, to this effect, in this Dialect.</p>
+               <p>
+                  <hi>Man,
+<note place="margin">Satan.</note> Thy Condition is La<g ref="char:EOLhyphen"/>mentable, worſe then the worſt of Mens; Surely, Thy Spiritual Eſtate is not ſound, God doth ſeldome let ſuch dreadful effects of his Indignation fall upon
+<pb n="17" facs="tcp:137080:17"/>any Man, but for ſome deep dy'd Sins, that muſt be of ſo beynous a Nature, beyond the name of humane Frailties, or common In<g ref="char:EOLhyphen"/>firmities; ſurely thy Profeſſion of Chriſtianity hath been but diſ<g ref="char:EOLhyphen"/>guiſed Hypocriſie; thou art but one in Maſquerade;
+<note place="margin">Rev. 3.1.</note> thou haſt a Name to live, but art dead; ſure<g ref="char:EOLhyphen"/>ly didſt thou belong to God, and wert one of his, he is a God of Mercy, and would not leave thee or forſake thee in this ſo ſad and deplorable a Condition.</hi>
+               </p>
+               <p>It's true, my Caſe is bad,
+<note place="margin">Sinner.</note> to be Lamented even with Tears of Blood, and my Spiritual Eſtate needs a ſerious conſide<g ref="char:EOLhyphen"/>ration; ſoundneſs in Chriſtia<g ref="char:EOLhyphen"/>nity needs an exact Scrutiny; Life and Death depend upon it;
+<pb n="18" facs="tcp:137080:18"/>for if <hi>Aarons</hi> Sons offer ſtrange fire,
+<note place="margin">Levit. 11.14.</note> Fire ſhall devour them; Jealouſie is hotteſt about the Sanctuary,
+<note place="margin">
+                     <hi>Read</hi> Ezek. 8.</note> and who can dwell with Everlaſting Burnings? Great Sins deſerve great Puniſh<g ref="char:EOLhyphen"/>ments;
+<note place="margin">Iſa. 33.14</note> I need therefore to look into mine own heart, and ſearch what particular Sins I have been guilty of before God, and to ſpread and bewail them be<g ref="char:EOLhyphen"/>fore him, which through the Divine aſſiſtance I have done, and if God be graciouſly pleaſed to acquit,
+<note place="margin">Rom. 8.1.</note> who can condemn.</p>
+               <p>But doth not God often ſore<g ref="char:EOLhyphen"/>ly Afflict them that belong to him? ſurely Satan, thou art in nothing elſe more a Lyar than in this;
+<note place="margin">Pſal. 88.14, 15.</note> what made godly <hi>Heman</hi> ſo bitterly to complain,
+<pb n="19" facs="tcp:137080:18"/>good <hi>Hezekiah</hi> to chatter like a <hi>Crane,</hi>
+                  <note place="margin">Iſa. 38.8. Pſal. 38.8.</note> upright <hi>David</hi> to roar through the diſquietneſs of his heart, and the bleſſed Jeſus to cry out in his Agony, <hi>My God,
+<note place="margin">Mat. 27.46.</note> my God, why haſt thou forſaken me?</hi> [And in our late days, how ſharp and violent hath thy Temptations been: In thy Aſſaults upon Mrs. <hi>Katharine Stubbs,</hi> and Mrs. <hi>Sarah White,</hi> and many others, to whom God hath given Evidence of their ſincerity, by their Con<g ref="char:EOLhyphen"/>queſts over him, and of their inward Conſolation] And as in reſpect of inward Deſerti<g ref="char:EOLhyphen"/>ons, ſo of outward Afflictions; Witneſs St. <hi>Paul, Job,</hi> and ma<g ref="char:EOLhyphen"/>ny of the Worthies of Old,
+<note place="margin">Heb. 11.37.</note> which were Deſtituted, Afflict<g ref="char:EOLhyphen"/>ed,
+<pb n="20" facs="tcp:137080:19"/>Tormented: And in our late times, ſo much the Wicked were ſuffered to proſper, that even the Anoynted of the Lord was taken in their Nets,
+<note place="margin">Lam. 4.20.</note> and the Royal Diadem of Majeſty made ſubject to a Fatal Stroke; and ſome of the ſhining Stars of Nobility obſcured, and their Honours laid in the Duſt; with ſeveral Martyrs, Confeſſors, and others, who have given Signal demonſtrations of their Since<g ref="char:EOLhyphen"/>rity, and belonging to God.</p>
+               <p>But what if I ſhew thee, oh <hi>Satan!</hi> ſome Marks and E<g ref="char:EOLhyphen"/>vidences of Sincerity, former<g ref="char:EOLhyphen"/>ly by me Collected; Wilt thou ſay, that theſe are Tokens of Hypocriſie? or can'ſt thou not but confeſs the contrary?</p>
+               <pb n="21" facs="tcp:137080:19"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> I have obſerved in the courſe of Gods Providence, that God hath had a regard to me in all conditions; but eſpecially in Af<g ref="char:EOLhyphen"/>flictions and Diſtreſs, God hath given me Comfort and Relief.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> That tho God hath given me Afflictions to Humble me, yet he hath given me ſome Comforts to ſupport and up<g ref="char:EOLhyphen"/>hold my Heart from Sinking.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> I ever had (ſince any work of God viſibly upon me) a ſenſe of Gods Authority, and my Duty: That at any time, I was unfit for any buſineſs of Moment, unleſs I had firſt commited my ſelf to God by Prayer.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> I have often deſired of God that he would grant me ſuch a
+<pb n="22" facs="tcp:137080:20"/>way to Live in the World, that I might with comfort and free<g ref="char:EOLhyphen"/>dome ſerve him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> I have always had a Love to thoſe that were truly Godly, tho differing in Judgment in the circumſtantials of Chriſtian Religion: And have had more a deſire of the Converſion of Enemies, then their Confuſion.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VI"/> I have preſſed and deſired after more Holineſs, and more Humbleneſs and Repentance, then I could ever ſenſibly find in my ſelf.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="VII"/> I have many times found the preſence of God in his Word and Sacraments, warming and enflaming my Love.</p>
+               <p>Now, What ſay'ſt thou Oh Enemy of Mankind? Are
+<pb n="23" facs="tcp:137080:20"/>theſe ſigns of Hypocriſie, or Sincerity? 'Tis true, ſome of them may be lyable to thy ca<g ref="char:EOLhyphen"/>vil and exception, but others of them, are beyond thy So<g ref="char:EOLhyphen"/>phiſtry or Evaſion.</p>
+               <p>
+                  <hi>But what is this to thy Con<g ref="char:EOLhyphen"/>dition?</hi>
+                  <note place="margin">Satan.</note>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. Suggeſtion.</head>
+               <p>
+                  <hi>Thy day is paſt, the door of Grace is ſhut: Had'ſt Thou look'd to it ſooner,</hi> and made Thy Calling and Election ſure,
+<note place="margin">2. Pet. 3.10.</note> 
+                  <hi>when Thou waſt in Thy Youth and Strength, it had been well for Thee; but Thou haſt Lived many Years in the World, and Gods Calls by Sickneſs and o<g ref="char:EOLhyphen"/>therwiſe, hath been frequent; The Golden Scepter of Grace
+<pb n="24" facs="tcp:137080:21"/>and Mercy hath been held forth, and Thou haſt Refus'd to come in and Submit; but now Divine Vengeance hath Purſued and Overtaken Thee, and the door of Grace is ſhut; 'Tis now too late; What canſt Thou do?</hi>
+               </p>
+               <p>The conſideration of my no ſooner turning to God,
+<note place="margin">Sinner.</note> and ſetting my Face Heaven<g ref="char:EOLhyphen"/>wards, is matter of Sorrow and Humiliation: The Calls of God to Repentance, and my Omiſſion, needs deep Re<g ref="char:EOLhyphen"/>pentance indeed; and that the time afforded for Repenting, ſhould be employed in Sining, makes me cry out with the <hi>Publican,
+<note place="margin">Luk. 18.13.</note> God be Merciful to me a Sinner:</hi> And if in Truth the door of Grace were ſhut, my
+<pb n="25" facs="tcp:137080:21"/>Condition were irreparable. But how cameſt thou, oh <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> into Gods Privy Council? How cameſt thou to know that mine (or any Mans) day of Grace is paſt? doth not God Call at the Sixth Hour, and Ninth Hour? 'Tis true, late Repentance is ſeldome True; but if True, God ac<g ref="char:EOLhyphen"/>cepts it, though it be late: Is the Promiſe of Chriſt <hi>(That whoſoever comes to the Father,
+<note place="margin">Joh. 6.37.</note> by him, he will in no wiſe caſt out)</hi> prefixt to ſuch a day of the Month, or Year, in Mans Life? Did not he that came laſt,
+<note place="margin">Matth. 20.9.</note> re<g ref="char:EOLhyphen"/>ceive a penny, as well as he that came firſt? Hath not thy old Deluſion been long enough known to the World, in telling
+<pb n="26" facs="tcp:137080:22"/>Sinners that 'tis time enough to Repent; and when God hath by ſome extraordinary Judg<g ref="char:EOLhyphen"/>ment, or otherwiſe, called up<g ref="char:EOLhyphen"/>on them to do it, then it was too late? And is not every Mans day of Grace a Secret known only to him that is the Antient of days?
+<note place="margin">Dan. 7.9.</note> And doth not ſecret things belong to God?</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. Suggeſtion.</head>
+               <p>
+                  <hi>But Man,
+<note place="margin">Satan.</note> Talk what Thou wilt, Eternal Miſery is Thy Portion: Thou mayeſt cherriſh up vain hopes, and Thy Friends may give Thee many and great Cordials of Comfort; But Thy Sun is Set, Thy day of Grace is paſt, irreverſible Judgment is
+<pb n="27" facs="tcp:137080:22"/>pronounced, and what remains but Execution; and this is Thy Doom; trouble Thy ſelf no fur<g ref="char:EOLhyphen"/>ther; this is Thy Condition.</hi>
+               </p>
+               <p>Theſe are dreadful Tydings,
+<note place="margin">Sinner.</note> oh <hi>Satan!</hi> indeed, (if true) enough to make the Heart of the ſtouteſt Sinner to quake and tremble, and to cry out and weep bitterly, when the Ar<g ref="char:EOLhyphen"/>rows of the Almighty ſtick ſo faſt in him,
+<note place="margin">Job 6.4.</note> and his Hand preſ<g ref="char:EOLhyphen"/>ſeth him ſo ſore.</p>
+               <p>But <hi>Satan,</hi> Methinks this is like the Language of <hi>Jobs</hi> Wife (by thee Inſtructed) <hi>Curſe God and Dye:</hi>
+                  <note place="margin">Job 2.9.</note> 'Tis not to be de<g ref="char:EOLhyphen"/>nied, that Execution naturally followeth Judgment;
+<note place="margin">Romans 6.24.</note> 
+                  <hi>The Wa<g ref="char:EOLhyphen"/>ges of Sin is Death.</hi>
+               </p>
+               <pb n="28" facs="tcp:137080:23"/>
+               <p> But is there no hope in all this? Are not all thoſe exceed<g ref="char:EOLhyphen"/>ing great and pretious Promiſes that God hath made in his word of uſe,
+<note place="margin">2 Pet. 1.4.</note> and to be uſed in ſuch a caſe? Muſt a Mans final Portion be concluded by his preſent condition? Muſt all the dealings of God with his Church in general, and Per<g ref="char:EOLhyphen"/>ſons in particular, be Rejected? ſurely, <hi>No.</hi> The Promiſes of God are Wells of Salvation to Refreſh, and Breaſts of Con<g ref="char:EOLhyphen"/>ſolation to Nouriſh the People of God, and every Gracious Soul: And do not they ſpeak in this manner; <hi>In my Wrath I hid my Face,
+<note place="margin">Iſa. 54.8, 11.</note> for a Moment, but with Everlaſting Mercy will I gather thee. Oh thou Afflicted,
+<pb n="29" facs="tcp:137080:23"/>toſſed with Tempeſt, and not Comforted, behold, I will lay thy Foundations with Saphirs,</hi> &amp;c. <hi>Bleſſed are they that Mourn, for they ſhall be Comforted;
+<note place="margin">Mat. 5.4.</note> And they that Sow in Tears ſhall Reap in Joy.</hi>
+                  <note place="margin">Pſalm 126.5.</note> Is not here a hiding of Gods Face, a toſſing with Tempeſt, a Mourning, a Sowing in Tears, before Ga<g ref="char:EOLhyphen"/>thering with Everlaſting Mer<g ref="char:EOLhyphen"/>cy, a laying with <hi>Saphirs,</hi> a Reaping with Joy, and being Comforted? Did not the Son of God endure a painful Life, and ſuffer a ſhameful Death? and did it not behoove him ſo to do, and then enter into his Glory? Nay,
+<note place="margin">Act. 17.13.</note> let us ſee whe<g ref="char:EOLhyphen"/>ther a Promiſe of God will not ſtay the Soul, and raiſe
+<pb n="30" facs="tcp:137080:24"/>ſome hopes, even when the moſt dreadful Judgments have befallen any Man. When <hi>A<g ref="char:EOLhyphen"/>dam</hi> had Sinned, he could ſee nothing but Guilt; all the Creatures were Curſed for his ſake, and himſelf caſt out of Paradice: What great ſadneſs muſt this needs be? Why, God comforts him with this Promiſe,
+<note place="margin">Gen. 3.15.</note> 
+                  <hi>That the Seed of the Woman ſhould break the Serpents Head. Solomons</hi> ſupplication for the People, was at the Dedication of the Temple, and ſetting of the Ark of God therein, that when the ſeveral Calamities (by him particularly enume<g ref="char:EOLhyphen"/>rated) were befallen them,
+<note place="margin">2 Chron. 6.38, 39.</note> yet if they turned to him with all their Heart, that God would
+<pb n="31" facs="tcp:137080:24"/>hear in Heaven, and be Mer<g ref="char:EOLhyphen"/>ciful unto them; And his Pray<g ref="char:EOLhyphen"/>er met with Gods approbation and acceptance.
+<note place="margin">2 Chron. 7.1.</note> And when <hi>Jonah</hi> had made himſelf a Fu<g ref="char:EOLhyphen"/>gitive, and by it had brought himſelf into deep Horror; and when his Soul fainted within him, even then he remembred God, and his Prayer came in unto him into his holy Temple.
+<note place="margin">Jona. 2.7.</note>
+               </p>
+               <p>But muſt I not, Oh thou Prince of Darkneſs, trouble my ſelf no further? Muſt my preſent condition be always ſuch as it is now? Shall I quit the Conflict, and proclaim thee Victor? far be it from me ſo to do; ſeeing that he that is in me,
+<note place="margin">1 Joh. 5.4.</note> is greater then he that is in the World. <hi>This Lyon of the
+<pb n="32" facs="tcp:137080:25"/>Tribe of</hi> Judah,
+<note place="margin">Rev. 5.5.</note> 
+                  <hi>is gone forth Conquering and to Conquer;</hi> he it is that hath the Keys of <hi>Hell</hi> and <hi>Death,</hi> and openeth and no Man ſhutteth, and ſhutteth and no Man openeth;
+<note place="margin">Heb. 21.8</note> 
+                  <hi>He that was Tempted, and therefore able to ſuccour thoſe that are Tempted;
+<note place="margin">Heb. 7.27</note> And able to Save to the utmoſt;</hi> he whom the Father hath Com<g ref="char:EOLhyphen"/>miſſioned, and given Authori<g ref="char:EOLhyphen"/>ty over even Principalities and Powers;
+<note place="margin">Phil. 2.9.</note> 
+                  <hi>And given a Name above every Name;</hi> he who hath Manfully Triumphed over <hi>Sin</hi> and <hi>Satan, Hell</hi> and the <hi>Grave,</hi> in his Crucifixion, Re<g ref="char:EOLhyphen"/>ſurrection and Aſſention to Glory. Shall I then be afraid to Fight under his Banner, whom I have ſo ſolemnly
+<pb n="33" facs="tcp:137080:25"/>owned in my Baptiſmal Vow? And for thy Counſel of trou<g ref="char:EOLhyphen"/>bling my ſelf no further, I ſhall not take it, ſeeing thou art a Deceiver, and by this alſo in<g ref="char:EOLhyphen"/>tendeſt to deceive; for not ea<g ref="char:EOLhyphen"/>ſily to trouble my ſelf now, is to beget immenſity of trou<g ref="char:EOLhyphen"/>ble hereafter; 'Tis time then, and not till then, to ceaſe reſiſt<g ref="char:EOLhyphen"/>ing, when thou ceaſeſt Tempt<g ref="char:EOLhyphen"/>ing.</p>
+               <p>We cannot perform Holy Duties, but <hi>Satan</hi> interpoſeth. <hi>If</hi> Joſhua <hi>the High Prieſt ſtand Miniſtring before the Lord,</hi> Satan <hi>ſtands at his Right Hand;</hi>
+                  <note place="margin">Zach. 3.1</note> Therefore our Lord hath bid us <hi>Watch and Pray,</hi> and in his Prayer, hath bid us ſay, <hi>And lead us not into Temptation;</hi>
+                  <pb n="34" facs="tcp:137080:26"/>and we are bid, <hi>Abrenuntia Satanae qui circuit ut devoret:</hi> And can we be ſafe from trou<g ref="char:EOLhyphen"/>ble, that are ſubject to the Prey of a Roaring Lyon? But be not afraid, oh my Soul! he that is Guardian of the Saints, <hi>The Keeper of</hi> Iſrael <hi>never ſlum<g ref="char:EOLhyphen"/>bereth nor ſleepeth;</hi>
+                  <note place="margin">Pſalm 121.4.</note> and hold out and endure to the end, <hi>Let no Man take thy Crown;
+<note place="margin">Rev. 3.11.17.14</note> And thou ſhalt overcome by the Power of the Lamb.</hi>
+               </p>
+               <p>
+                  <hi>Well,
+<note place="margin">Satan.</note> go on as Victoriouſly as thou canſt, and deceive thy ſelf as thou wilt.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. Suggeſtion.</head>
+               <p>
+                  <hi>Thou ſhalt ſuddainly be ſur<g ref="char:EOLhyphen"/>priſed by me, Thou art in Cap<g ref="char:EOLhyphen"/>tivity
+<pb n="35" facs="tcp:137080:26"/>to me, and I have Poſ<g ref="char:EOLhyphen"/>ſeſſion of Thee.</hi>
+               </p>
+               <p>
+                  <hi>I told Thee before what Thy Doom was, and yet Thou Nou<g ref="char:EOLhyphen"/>riſhed'ſt up Thy ſelf with hopes, and made Scriptural Arguments Thy Refuge: But even in that Thou art alſo deceived; For, what hope hath the Hypocrite?
+<note place="margin">Job 27.8.</note> Thou chargeſt me with deluſions, but no one a greater deluder then Thy ſelf, and that to Thy ſelf; but now Thou art under my do<g ref="char:EOLhyphen"/>mination, 'twill not be long be<g ref="char:EOLhyphen"/>fore I make Thee know, that all Thy pretenſions are but vain.</hi>
+               </p>
+               <p>I muſt confeſs (Oh ſubtle Serpent) thy Darts are Fierce and Fiery,
+<note place="margin">Sinner.</note> and were not my Soul and Body (through Di<g ref="char:EOLhyphen"/>vine
+<pb n="36" facs="tcp:137080:27"/>protection) Impregnable, I might ſit down in horror and amazement: But ſurely things are not as thou makeſt them; What God may permit thee to do hereafter, is as well unknown to thee as me; and had'ſt thou any power of me, thou art not ſo great a Friend to Mankind, but thy Rage would be by me and many o<g ref="char:EOLhyphen"/>thers ſufficiently known. I muſt confeſs, thou purſueſt me with Viſions of the Night, and I am ſo troubled I cannot Sleep,
+<note place="margin">Job 20.8.</note> and in my unquiet Slumbers, Suggeſts ſtrange things to my Fancy, ſometimes by Elevati<g ref="char:EOLhyphen"/>ons, as tho I wanted nothing but wings to Fly; ſometimes by Depreſſions, as though my
+<pb n="37" facs="tcp:137080:27"/>Body was the Baſis and Foun<g ref="char:EOLhyphen"/>dation, upon which ſome pon<g ref="char:EOLhyphen"/>derous Superſtructure ſtood; ſometimes, as tho ſomething lay as heavy upon my Breaſt, of no leſs weight then Ledd, and by its ſuddain departure, Suggeſting as though I had been Companion with ſome ugly <hi>Vulture;</hi> and by many various miſrepreſentations to my Senſe in Slumber, (though I bleſs God not to my ſight, any ways to affright me) thou haſt accoſted me; not by Words to be demonſtrated, but as Truth to be believed. Be<g ref="char:EOLhyphen"/>ſides, thoſe ridiculous Fancies, not by words decently to be Expreſſed, and not without ab<g ref="char:EOLhyphen"/>horrence to be Remembred.
+<pb n="38" facs="tcp:137080:28"/>How much of this may be im<g ref="char:EOLhyphen"/>puted to a Natural, and by this Conflict acquired Melan<g ref="char:EOLhyphen"/>choly, I leave to the Learned to decide: But ſurely, a great deal of it was not from Natu<g ref="char:EOLhyphen"/>ral Indiſpoſition, but from Satannical Deluſion; And it may be my Memory and un<g ref="char:EOLhyphen"/>derſtanding being continued to me, by Gods Preſervation, was in order to make it known, for the ſupport of others, by Pub<g ref="char:EOLhyphen"/>lication. But is not this boaſt<g ref="char:EOLhyphen"/>ing of my Captivity, and falſe Suggeſtion of thy having poſ<g ref="char:EOLhyphen"/>ſeſſion of me, the effects of thy Pride, oh fallen Angel? Could'ſt thou of old not enter into the Carcaſs of a Swine,
+<note place="margin">Matth. 5.12.</note> without the leave of our Bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="39" facs="tcp:137080:28"/>Lord; and haſt thou Pow<g ref="char:EOLhyphen"/>er of thy ſelf to enter into my Body, which is the Temple of the Holy Ghoſt?
+<note place="margin">1 Corrin. 6.19.</note> Shall that Body which ought to be pre<g ref="char:EOLhyphen"/>ſented a Living Sacrifice to God, by Dedication, become a place for thy Reception? Shall that Body which ought only to bow to God in Divine Worſhip, by Proſtration and Adoration, be ſubject to thy Devotion, when thou wilt, for a Habitation? Shall that Bo<g ref="char:EOLhyphen"/>dy, whom by the Merits of the Bleſſed Jeſus, at the Reſurrecti<g ref="char:EOLhyphen"/>on, hopes to meet with Glori<g ref="char:EOLhyphen"/>fication, be the ſubject of thy debaſed Vilification? ſurely, <hi>No;</hi> And doubtleſs, hadſt thou ſuch an uncontrouled Power
+<pb n="40" facs="tcp:137080:29"/>as thou haſt by pretenſion, the direful effects thereof, not only to my Body, but the whole World, would be known by its Deſtruction; thou being not unfitly termed (as of old) a <hi>Deſtroyer.</hi>
+                  <note place="margin">Rev. 9.11</note>
+               </p>
+               <p>
+                  <hi>But what talkeſt Thou ſo much,
+<note place="margin">Satan.</note> oh Sinner, of thy Body?</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V. Suggeſtion.</head>
+               <p>
+                  <hi>Thou art unworthy of any Creature Comforts, and therefore Sinful to Eat Thy Bread, or to uſe any outward means for Thy Recovery.</hi>
+               </p>
+               <p>
+                  <hi>Thou thinkeſt and hopeſt Man that this is but Melancholy, and Thy Friends ſeek Thy Cure, and tell Thee Thou muſt be chear<g ref="char:EOLhyphen"/>ful,
+<pb n="41" facs="tcp:137080:29"/>and uſe ſuch means as God hath ordained; but Thy Sins have been ſuch, that the leaſt Mercy doth not belong to Thee: Haſt Thou the Face to conſume Gods benefits, and to ſpeak of Recovery? If God had ordain<g ref="char:EOLhyphen"/>ed it, it would have been long e're this, uſing ſuch means as Thou haſt done.</hi>
+               </p>
+               <p>I muſt confeſs, Oh <hi>Satan!</hi>
+                  <note place="margin">Sinner.</note> thou art in words not a Lyar in this, whatever thou art in intention;
+<note place="margin">Gen. 32.10.</note> for I may ſay with <hi>Jacob, I am not worthy of the leaſt of all thy Mercies:</hi> We are not worthy of a Crumb that falls from thy Table, oh Lord! If Worthineſs of Receipt, is to be judged according to the
+<pb n="42" facs="tcp:137080:30"/>Worthineſs of Merit, there is none but one that is Worthy; even the Lamb, Slain from the Foundation of the World.
+<note place="margin">Rev. 5.4.</note> If our Receipts of Mercy depen<g ref="char:EOLhyphen"/>ded upon our Merit, we might ſtarve in the midſt of all that plentiful Proviſion that God hath provided for the Souls and Bodies of his Sanctified ones. Hath not he that is the great Houſe-Keeper of Heaven and Earth, ſaid, <hi>Go Eat thy Bread with Joy, and Drink thy Wine with a Merry Heart?</hi>
+                  <note place="margin">Eccl. 9.7.</note> Did not the Primitive Chriſtians <hi>Eat their Bread with gladneſs and ſingleneſs of Heart,
+<note place="margin">Act. 2.4.7.</note> Praiſing God?</hi> Doth Chriſtianity ex<g ref="char:EOLhyphen"/>clude all Earthly Felicity? Doth it become the Servants of the
+<pb n="43" facs="tcp:137080:30"/>moſt high, to have always their Countenances ſad? Is not their Work good, and their Wages proportionable? Are not they bidden to <hi>Rejoyce always, and again I ſay Rejoyce;
+<note place="margin">Phil. 4.4, 5.</note> but ſo as to let their moderation be known to all Men?</hi> Is not this thy old wont, if thou canſt not Tempt Men to be Luxurious, then to be too Parcimonious, and be<g ref="char:EOLhyphen"/>tween theſe two Rocks to make <hi>Shipwrack of their Faith?</hi>
+                  <note place="margin">1 Tim. 1.19.</note> Was it not a Wiſe Requeſt, made by a Wiſe Man back't with ſtrong Reaſon, <hi>Give me neither Poverty nor Riches?</hi>
+                  <note place="margin">Proverbs 30.8, 9.</note> Is not there a Golden mediocrity in theſe things, free from thy exception, ſurely <hi>Yes?</hi>
+               </p>
+               <pb n="44" facs="tcp:137080:31"/>
+               <p> But are not outward means to be ſought for Recovery? Hath God made that Profeſſion of no uſe,
+<note place="margin">Eccleſ. 38.1. Col. 4.14</note> to which he hath affixed the Title of Honour, and Beloved? 'Tis true, <hi>Aſa</hi> is branded with <hi>ſeeking to the Phyſitians,
+<note place="margin">2 Chron. 16.12.</note> and not unto the Lord;</hi> but if he had ſought unto the Lord, by the Phyſiti<g ref="char:EOLhyphen"/>ans, would any Man thought him blame-worthy? Was not <hi>Hezekiah</hi> bid to take a Lump of Figgs,
+<note place="margin">Iſa. 36.21.</note> when Diſeaſed, and apply to his Sore? 'Tis true, the ſence of my condition makes me forget to Eat my Bread; and I have ſo great an apprehenſion of my unwor<g ref="char:EOLhyphen"/>thineſs and demerits, that my Friends cannot perſwade me to
+<pb n="45" facs="tcp:137080:31"/>take my appointed Food with<g ref="char:EOLhyphen"/>out force;
+<note place="margin">Job 23.12.</note> but ſhall the great<g ref="char:EOLhyphen"/>neſs of my Sins and unwor<g ref="char:EOLhyphen"/>thineſs, or the long uſe of in<g ref="char:EOLhyphen"/>effectual means, make me give over? Muſt not I wait all the days of my Life <hi>until my change come?</hi>
+                  <note place="margin">Job 14.14.</note> Shall not thoſe that wait on the Lord, renew their ſtrength? And are not they proclaimed Bleſſed that wait for him?
+<note place="margin">Iſa. 40.31</note> 
+                  <hi>The Viſion is for an appointed time,
+<note place="margin">Hab. 2.3.</note> but in the end it will Speak.</hi> Shall I that am but Duſt and Aſhes, Limit him that is Controuler and Gover<g ref="char:EOLhyphen"/>nour of the whole World? Doth not the time of my Re<g ref="char:EOLhyphen"/>covery depend upon him who is the Lord of time? And doth not Times and Seaſons belong
+<pb n="46" facs="tcp:137080:32"/>unto the Father?
+<note place="margin">Mar. 13.32</note> Was not mur<g ref="char:EOLhyphen"/>muring <hi>Iſrael</hi> of old taxed with this fault, <hi>They Limited the Holy one of</hi> Iſrael?
+<note place="margin">Pſalm. 78.41.</note> Is it not then better in patience to poſ<g ref="char:EOLhyphen"/>ſeſs ones Soul, and with De<g ref="char:EOLhyphen"/>vout Heart as well as Tongue, to Pray, <hi>Thy will be done, Oh Lord!</hi> and to <hi>Wait for the Lord, as they that watch for the Morning;
+<note place="margin">Pſalm 130.6.7.</note> for with the Lord is Mercy and plenteous Redempti<g ref="char:EOLhyphen"/>on;</hi> And to lay hold on the Covenant of Grace; which al<g ref="char:EOLhyphen"/>though it be not with me as it ſhould, <hi>Yet</hi> (I may ſay as <hi>David</hi> did in another caſe) <hi>he hath made an Everlaſting Cove<g ref="char:EOLhyphen"/>nant with me,
+<note place="margin">2 Sam. 23.5.</note> ordered in all things and ſure.</hi>
+               </p>
+               <pb n="47" facs="tcp:137080:32"/>
+               <p> 
+                  <hi>I muſt confeſs, Oh Sinner!
+<note place="margin">Satan.</note> Thy method is good, and if any way is left for Thy Salvation, it is by laying hold of his Cove<g ref="char:EOLhyphen"/>nant of Grace: But,</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. Suggeſtion.</head>
+               <p>
+                  <hi>Thou wanteſt Faith and Re<g ref="char:EOLhyphen"/>pentance, the neceſſary qualifica<g ref="char:EOLhyphen"/>tions of the Covenant; and therefore that doth not belong to Thee.</hi>
+               </p>
+               <p>
+                  <hi>Thou ſpeakeſt much of Gods Covenant, which indeed to them to whom it doth belong, is full of Grace and Mercy;
+<note place="margin">Pſalm 25.10.</note> but it is to them that keep his Covenants. Thou haſt broken Covenant with him, and Thou wanteſt Repen<g ref="char:EOLhyphen"/>tance to Repent Thee truly of the breach thereof, and Faith
+<pb n="48" facs="tcp:137080:33"/>to believe, that upon that Re<g ref="char:EOLhyphen"/>pentance which Thou haſt made, that God hath forgiven Thee,
+<note place="margin">Jeremiah 31.34.</note> and according to his Covenant will remember Thy Sins no more. Thou that can'ſt not truſt God for daily ſupplies, do'ſt Thou think that Thou hast Faith? And what if God hath made ſuch eneſtimable Promiſes, and made ſuch a Feast of Fat things,
+<note place="margin">Iſa. 25.6.</note> if Thou wantest a Hand to reach them unto Thee, what art Thou the better?</hi>
+               </p>
+               <p>Thou ſayeſt,
+<note place="margin">Sinner.</note> Oh mine E<g ref="char:EOLhyphen"/>nemy! that I want Faith, and indeed ſo I do, for every Man may ſay with the Bleſſed Di<g ref="char:EOLhyphen"/>ſciples, <hi>Lord encreaſe our Faith.</hi> And altho thou granteſt the
+<pb n="49" facs="tcp:137080:33"/>Premiſes, yet thou denieſt the concluſion; but I hope I can ſay, through Grace, <hi>Lord I do believe, help thou mine unbelief.</hi>
+                  <note place="margin">Joh. 9.38.</note> There are ſome Divine Cha<g ref="char:EOLhyphen"/>racters that are ſtampt upon true Faith; It works by Love, and it breaths by Hope; It works by Love, to <hi>God,</hi> to <hi>Man.</hi>
+               </p>
+               <p>If I find in my ſelf ſuch an enflamed Love, that if my Sa<g ref="char:EOLhyphen"/>viour would accept me to Grace and Mercy, I could be content to endure thoſe Flames that were repreſented viſibly by the Flames of an Oven to my Bo<g ref="char:EOLhyphen"/>dily Eye, for the ſake of my Bleſſed Lord; And alſo if I find in my ſelf an hearty Love to Man, by which the <hi>Apoſtle</hi>
+                  <pb n="50" facs="tcp:137080:34"/>ſaith,
+<note place="margin">1 John 3.14.</note> 
+                  <hi>We may know our Tran<g ref="char:EOLhyphen"/>ſition from Death to Life, be<g ref="char:EOLhyphen"/>cauſe we Love the Brethren:</hi> And if good works be an Evi<g ref="char:EOLhyphen"/>dence of true Faith, what bet<g ref="char:EOLhyphen"/>ter work can there be then to Love our Brother? And this was the ſignal badge of being Diſciples of the Bleſſed Jeſus, <hi>Even Love to one another.</hi>
+                  <note place="margin">Joh. 13.35.</note> If I Love thoſe that are of a diffe<g ref="char:EOLhyphen"/>rent Judgment, for the good that is in them, can'ſt thou, Oh <hi>Satan!</hi> deny this to be true Faith? This is one of the Wea<g ref="char:EOLhyphen"/>pons by which thou art made to fly, and by it, <hi>Thou and the World art overcome.</hi>
+                  <note place="margin">1 Joh. 5.4.</note> 'Tis by this Faith, Chriſt is brought in<g ref="char:EOLhyphen"/>to the Soul, and in him all thoſe God-Covenanting Promiſes
+<pb n="51" facs="tcp:137080:34"/>which he hath made, of being our God, of puting his Fear in our Hearts, of taking away the Heart of Stone, and giving Hearts of Fleſh, <hi>&amp;c.</hi> Theſe are links of that Golden Chain of Love, wherewith God hath bound himſelf to his People, and left it upon Record for their Comfort. <hi>This is the River,
+<note place="margin">Pſa. 46.4.</note> the Streams whereof ſhall make glad the City of our God.</hi>
+               </p>
+               <p>But thou ſayeſt, Oh mine Enemy! I want alſo Repen<g ref="char:EOLhyphen"/>tance, 'tis true; beſide our ge<g ref="char:EOLhyphen"/>neral Repentance, we need daily Repentance for daily Sin; he whoſe Body was waſhed by the Water of Repentance, for former Sins,
+<note place="margin">Jo. 13.10.</note> 
+                  <hi>had need to waſh his feet for continued Tranſgreſſions,
+<pb n="52" facs="tcp:137080:35"/>even in that Fountain opened to the Houſe of</hi> David,
+<note place="margin">Zac. 13.1</note> 
+                  <hi>and to the Inhabitants of</hi> Jeruſalem.</p>
+               <p>But how knoweſt thou, oh <hi>Satan!</hi> that I want that Re<g ref="char:EOLhyphen"/>pentance which God will ac<g ref="char:EOLhyphen"/>cept? 'tis not ſuch a degree of any Grace that is required, ſo there is ſo much to make it true and ſaving. If Confeſſion, if Contrition and Compunction of Soul, accompanied with a ſincere forſaking of Sin in Re<g ref="char:EOLhyphen"/>ſolution, may be judged Badg<g ref="char:EOLhyphen"/>es of the Divine Order of Pe<g ref="char:EOLhyphen"/>nitents, I hope with all Hu<g ref="char:EOLhyphen"/>mility to pretend to be a little Member of that Heavenly So<g ref="char:EOLhyphen"/>ciety. And ſurely, if all the forementioned Ingredients are neceſſary to make this Holy
+<pb n="53" facs="tcp:137080:35"/>Oyntment of Repentance; my condition hath afforded me much opportunity of joyning in making the Compoſition. But if I wanted Faith and Re<g ref="char:EOLhyphen"/>pentance, to whom ſhould I go, but to the giver of both?
+<note place="margin">Phil. 1.29</note> 
+                  <hi>To you it is given to believe; And to them God granted Re<g ref="char:EOLhyphen"/>pentance unto Life.
+<note place="margin">Act. 11.18.</note> Oh my Soul, wait upon Thy God, for from him, and him alone, cometh Thy help, and Thy Salvation.</hi>
+                  <note place="margin">Pſa. 43.5.</note>
+               </p>
+               <p>
+                  <hi>I cannot blame Thee,
+<note place="margin">Satan.</note> Oh Sin<g ref="char:EOLhyphen"/>ner! to be careful of Thy Sal<g ref="char:EOLhyphen"/>vation; Eternal Weal or Woe depends upon it; and therefore if Thou wilt hearken to me, I will tell Thee a way how to do it.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <pb n="54" facs="tcp:137080:36"/>
+               <head>VII. Suggeſtion.</head>
+               <p>
+                  <hi>The way to ſave Thy Soul, is to deſtroy Thy Life.</hi>
+               </p>
+               <p>
+                  <hi>This is the only way that is left, and if Thou wilt do it, I will ſhew Thee a way how Thou mayeſt accompliſh Thy deſired End.</hi>
+               </p>
+               <p>This is ſtrange,
+<note place="margin">Sinner.</note> Oh ſubtle Serpent! that a thing of ſuch contrariety and inconſiſtency, ſhould concur in Harmony, and my deſigned Felicity. Muſt I break the Divine Law of the Supream Legiſlator, and be<g ref="char:EOLhyphen"/>come a <hi>Felo de ſe, &amp;c.</hi> and pro<g ref="char:EOLhyphen"/>miſe my ſelf impunity, nay, benefit thereby. Certainly, if ever thou wert Transfor<g ref="char:EOLhyphen"/>med
+<pb n="55" facs="tcp:137080:36"/>
+                  <hi>into an Angel of Light,</hi>
+                  <note place="margin">2 Cor. 11.14.</note> 'tis now. At this time we may truly ſay, <hi>Satanas inter filios Dei;</hi> for thou to pretend my Salvation in ſuch a man<g ref="char:EOLhyphen"/>ner, as intends my Souls De<g ref="char:EOLhyphen"/>ſtruction, and then to ſuggeſt to me ſuch a way ſo ridiculous and fantaſtical, in a thing not to be named without Laugh<g ref="char:EOLhyphen"/>ter and Deteſtation. Muſt my Mother be an inſtrument of my Conſumption and Anihila<g ref="char:EOLhyphen"/>tion, that was a means of my Conception and Production. <hi>Can a Man enter into his Mo<g ref="char:EOLhyphen"/>thers Womb, and be Born again?</hi>
+                  <note place="margin">Joh. 3.4.</note> Had not thy Ridicularity been to others formerly known, and now to my ſelf, it would ſcarcely have been believed,
+<pb n="56" facs="tcp:137080:37"/>as having no affinity with thy pretended Sagacity. It muſt confeſs, my long denied Reſt, and continued Conflict, hath ſo weakened my underſtand<g ref="char:EOLhyphen"/>ings, that I am not fully Maſter of my own Reaſon, and there<g ref="char:EOLhyphen"/>fore a fit ſubject for thy delu<g ref="char:EOLhyphen"/>ſion; and I am ſo ſtrongly and violently Aſſaulted with thy reſtleſs Temptation, forcing me (as it were) againſt my will, to my Bodies deſtruction; that had thoſe ways at another time been by me uſed, it certainly had attained its final accom<g ref="char:EOLhyphen"/>pliſhment: But, loe here! the goodneſs of God was ſeen in my Preſervation, who is able to keep us all by his Al<g ref="char:EOLhyphen"/>mighty Power,
+<note place="margin">1 Pet. 15.</note> 
+                  <hi>Through Faith
+<pb n="57" facs="tcp:137080:37"/>unto Salvation;</hi> and will not ſuffer us to be Tempted above meaſure,
+<note place="margin">1 Comin. 10.13.</note> 
+                  <hi>But will with the Temptation make a way for our eſcape.</hi>
+               </p>
+               <p>But will not thou, oh <hi>Satan!</hi> for all this be quiet? Haſt thou been all this while raiſing thy Batteries, and keeping me thine Enemy waking, with the Roaring Canons of Terrors and amazement, and art thou now reſolved upon the Storming of my weakned Gar<g ref="char:EOLhyphen"/>riſon? Well, come on, and if by the Power of the Almighty I hold out now,
+<note place="margin">Rom. 8.37.</note> I ſhall be more then Conquerour. If I have him for my Captain, whom thy audacity was ſo great as to Tempt to the caſting himſelf
+<pb n="58" facs="tcp:137080:38"/>from the Pinacle of the Tem<g ref="char:EOLhyphen"/>ple:
+<note place="margin">Matth. 4.5, 6. Hebrews 2.18.</note> 
+                  <hi>He is able to ſuccour them that are Tempted;</hi> and tho in my ſelf as weak as <hi>David,</hi> yet being ſtrengthned <hi>by him who is all ſtrength, and Mighty to Save;</hi>
+                  <note place="margin">Iſa. 63.1.</note> I ſhall be able to En<g ref="char:EOLhyphen"/>counter and overcome thee, that art the <hi>Goliah</hi> of my Soul; And though thy laſt Darts are terrible, and thou a cunning Archer, and haſt wounded me ſore; <hi>Yet my Bow hath abode in ſtrength,
+<note place="margin">Geneſis 49.13.</note> being made ſtrong by the Mighty God of</hi> Jacob.</p>
+            </div>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb n="59" facs="tcp:137080:38"/>
+            <head>Chriſtian Reader.</head>
+            <p>I Have, by theſe imperfect Delineaments, given thee a Survey of my Pilgrimage, into the Wilderneſs and Red Sea of Affliction: Give me leave now to give thee (with as much brevity as may be) my approaches to the Land of <hi>Canaan.</hi>
+            </p>
+            <p>About the end of <hi>February,</hi> towards the beginning of the Spring, began the Spring of my Comfort: Being tired with the too frequented Priſon of my Chamber, from <hi>May</hi> preceeding. I had a deſire to go to the Fire in the Kitchen of my Brothers Houſe, and
+<pb n="60" facs="tcp:137080:39"/>ſeeing the Bleſſed Bible (which were it the <hi>Talmud</hi> among the <hi>Jews,</hi> and <hi>Alcoran</hi> amongſt the <hi>Turks,</hi> would be uſed with more Veneration) I Read therein; and thoſe things in my fore-paſt Conflict and Deſertion, which were full of Obſcurity and Darkneſs, now began to afford Comfort and Support Therefore let not the <hi>Atheiſt</hi> and <hi>Antiſcriptu<g ref="char:EOLhyphen"/>riſt</hi> doubt of its verity by my experiment; Nor the <hi>Diſ<g ref="char:EOLhyphen"/>conſolate</hi> fear of its affording matter of Conſolation, in the time of the greateſt Agonies.</p>
+            <p>And continuing ſo for ſome time, and Reading over thoſe Scriptural Councels that I had formerly peruſed, and
+<pb n="61" facs="tcp:137080:39"/>remembring thoſe Grave Ad<g ref="char:EOLhyphen"/>vices given me by ſundry E<g ref="char:EOLhyphen"/>minent Divines and Friends; the beams of Divine Light and Love began to ſhine, <hi>And the Sun of Righteouſneſs to appear with healing in his Wings.</hi>
+               <note place="margin">Mal. 4.2.</note> And as my inward Man began to be Revived, my outward Man began to be Refreſhed; and uſing thoſe things which are by Sacred appointment, ordained for Comfort and Refreſhment, by me formerly rejected, I arrived to that degree of Com<g ref="char:EOLhyphen"/>fort, that hath by the Mercy of God, chearfully ſupported me above this Twenty Years; Totally freed from the dregs of that bitter Cup: And
+<pb n="62" facs="tcp:137080:40"/>through the goodneſs of my Bleſſed Preſerver, I hope for the continuance of the Peace, and Tranquility which I at this preſent enjoy, both in Soul and Body; For, although I cannot but acknowledge my multiplied Tranſgreſſions, and that which is great matter of Humiliation, <hi>That I have not rendred according to the Mercy received:
+<note place="margin">2 Chron. 32.25.</note> Yet this is matter of Rejoycing to have a Conſcience void of Offence,
+<note place="margin">Act. 24.16.</note> to<g ref="char:EOLhyphen"/>wards God and Man:</hi> And therefore Praiſe the Lord, oh my Soul! and forget not all his benefits; who hath, doth, and will I hope, <hi>Deliver me from the Power of Sin and Sa<g ref="char:EOLhyphen"/>tan,
+<note place="margin">Col. 1.13</note> and preſerve me ſafe unto
+<pb n="63" facs="tcp:137080:40"/>the Everlaſting Kingdom of his dear Son;</hi> And therefore, <hi>Al<g ref="char:EOLhyphen"/>lelujah, Salvation, Dominion, and Power be given to him that ſits upon the Throne,
+<note place="margin">Rev. 5.13</note> and to the Lamb for evermore.</hi>
+            </p>
+            <p>And now, <hi>Christian Reader,</hi> having given thee a true and Impartial account, of this my doleful Conflict, and of my Birth and courſe of Life, pre<g ref="char:EOLhyphen"/>cedent thereunto. Give me leave, for a concluſion, (that God may have the Glory of all) to give thee a ſhort Narrative of my Life ſubſequent, and of my Eſtate and Condition, to this preſent day.</p>
+            <p>Being, by the Providence of Almighty God, reſtored to
+<pb n="64" facs="tcp:137080:41"/>my Health and Underſtanding, I reaſſumed the Study of thoſe things, wherein I formerly took delight, both in Law, Equity, and Clerkſhip, for altho <hi>Doctrina ſtultis ſperni<g ref="char:EOLhyphen"/>tur,</hi> and the practiſe of Law hath little Reputation of Ho<g ref="char:EOLhyphen"/>neſty amongſt the Vulgar; yet I doubt not but that the true Profeſſion of the Goſpel may be accompanied with the uſe of our Common Law; It being deſigned to ſtrengthren Religion, and not to weaken or undermine it; And although ſome ill Men are not by juſt Men to be juſtified; yet, the Piety, Juſtice, and Ingenuity of many others are not to be denied, but rather by all
+<pb n="65" facs="tcp:137080:41"/>good Men to be immitated and commended.</p>
+            <p>After ſome uſe of Country buſineſs, in drawing things of the loweſt Nature; and as my knowledge of Things and Perſons, and theirs of me in<g ref="char:EOLhyphen"/>creaſed, I came to the draw<g ref="char:EOLhyphen"/>ing of things of a Superiour account, as Leaſes, Mortgages, Deeds, Conveyances, Settle<g ref="char:EOLhyphen"/>ments, <hi>&amp;c.</hi> and of any, or moſt Inſtruments, that are now in uſe; And alſo in man<g ref="char:EOLhyphen"/>aging of Cauſes, both in Law or Equity, wherein I have had as good ſucceſs, as any Man proportionable to that obſcure place, and little Im<g ref="char:EOLhyphen"/>ployment I had undertaken:
+<pb n="66" facs="tcp:137080:42"/>my Humour not leading me much that way, and now my declenſion of Years not per<g ref="char:EOLhyphen"/>miting much Travel; and my Condition deſiring rather a Home conveying Employ, though not a total rejection of any other.</p>
+            <p>When I had ſpent about Six Years in practiſing as a Solicitor in the Court of <hi>Com<g ref="char:EOLhyphen"/>mon Pleas</hi> (as in others) and having made proof thereof, by a Certificate from an In<g ref="char:EOLhyphen"/>genious Gentleman, and an Attorney of that Court, I was by him recommended for my fitneſs, to the chief <hi>Prothonotary,</hi> to be Sworn Attorney of the ſaid Court;
+<pb n="67" facs="tcp:137080:42"/>who having a Knowledge of one of thoſe Worthy Gentle<g ref="char:EOLhyphen"/>men, and of his Family under whom I was bred; and hav<g ref="char:EOLhyphen"/>ing Examined me in his Office, by the Rules of Practiſe, and by Reading one of the Re<g ref="char:EOLhyphen"/>cords of the Court, and by enquiring into my Education and Breeding; he told me, that if my ſelf, and the Gen<g ref="char:EOLhyphen"/>tleman that Certified for me, came in our Formalities to the Treaſury next Morning, he would recommend me to the Judges of that Court for Approbation; which Judges then were Lord chief Juſtice <hi>Vaughan,</hi> Juſtice <hi>Windham,</hi> Juſtice <hi>Archer,</hi> and Juſtice
+<pb n="68" facs="tcp:137080:43"/>
+               <hi>Wild,</hi> which being come, Mr. <hi>Robinſon</hi> (after made Sir <hi>Thomas Robinſon</hi>) the <hi>Protho<g ref="char:EOLhyphen"/>notary</hi> moved them in my concern; and Mr. Juſtice <hi>Wild</hi> withdrew, and Exami<g ref="char:EOLhyphen"/>ned me, Read my Certificate, Written with my own Hand, in the Hand of the Court, who approving of me, order<g ref="char:EOLhyphen"/>ed my being Sworn, which was accordingly done in the ſaid Court in <hi>Weſtminſter-Hall,</hi> and afterwards Enrolled: And having performed all things Requiſite and uſual, I have ever ſince, more or leſs, con<g ref="char:EOLhyphen"/>tinued in the ſaid Imployment, having not miſſed (before and ſince my being Sworn) above
+<pb n="69" facs="tcp:137080:43"/>ſix or ſeven Terms this Two or Three and Twenty Years, beſides Ten Years Service and Study previous to the ſame. So that I bleſs Almighty God, that he hath ſo infinitely, be<g ref="char:EOLhyphen"/>yond my Deſerts, dealt ſo Lovingly with me, by raiſing me out of the great depth of Adverſity, and affording me ſo many happy Years ſince: I bleſs God that I have Imploy<g ref="char:EOLhyphen"/>ed thoſe opportunities to the benefit of others, and my ſelf. But as to the Ability I have ſhewn, in what buſineſs hath been committed to my Care, and what ſucceſs I have had therein, Modeſty ſuffers me not to Relate; Yet my Re<g ref="char:EOLhyphen"/>flections
+<pb n="70" facs="tcp:137080:44"/>thereon, affords mat<g ref="char:EOLhyphen"/>ter of Comfort to my ſelf, and Praiſe to the God of all Grace and Mercy. There<g ref="char:EOLhyphen"/>fore I leave theſe things to the Judgment and Obſerva<g ref="char:EOLhyphen"/>tion of thoſe ſeveral Worthy Gentlemen of the Laiety and Clergy, Ladies, and others, who have received benefit thereby.</p>
+            <p>What Integrity, Care, and Induſtry I have uſed out of my way, in the Superviewing of any Eſtate in the courſe of Husbandry; Or, in the man<g ref="char:EOLhyphen"/>agement of the ſeveral Truſts, and care of Mens Families and Fortunes, repoſed in me, I leave to thoſe that for many
+<pb n="71" facs="tcp:137080:44"/>Years have had the Experi<g ref="char:EOLhyphen"/>ence thereof, to declare; de<g ref="char:EOLhyphen"/>ſiring in general no Man to do more for me and mine, then I have done for them and theirs: But, <hi>Soli Dei Gloriae,</hi> I deſire that to God may the Glory of all be refer<g ref="char:EOLhyphen"/>ed, becauſe the Power and Glory is from him ſolely de<g ref="char:EOLhyphen"/>rived.</p>
+            <p>And now, <hi>Courteous Rea<g ref="char:EOLhyphen"/>der,</hi> having (according to my Promiſe) given thee a ſhort and true Narrative of my Life, after my late Conflict; Give me leave to Speak a few words to the ſeveral Perſons into whoſe hands theſe Lines may come.</p>
+            <pb n="72" facs="tcp:137080:45"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Some there are, who out of a lofty high Spirit, and a prophane Mind, may con<g ref="char:EOLhyphen"/>temn the Subject matter thereof, becauſe written in a common Scriptural Dialect, which may be thought incon<g ref="char:EOLhyphen"/>ſiſtent with a Man of my Pretenſions. Theſe are to be anſwered:</p>
+            <p>And to ſuch I ſay, That for want of being converſant in the Book of God, many Perſonages of Noble Extract, have extreamly wanted ſuch helps at the time of their Deaths; then plain Scripture Truths and Expreſſions being of moſt Uſe and Comfort.</p>
+            <pb n="73" facs="tcp:137080:45"/>
+            <p> And likewiſe many of the greateſt Sages of the Law, both Common and Civil, have Gloried to Write in the Stile of the Divine Law-giver; And can we be Wiſer then he that is Wiſdom it ſelf? Can we hope to find better Weapons, then thoſe by which our Lord hath overcome?
+<note place="margin">Mat. 4.4.</note> And ſhall thoſe that are Tra<g ref="char:EOLhyphen"/>velling unto that Heavenly Country of <hi>Canaan,</hi> deſpiſe the Language thereof?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> There are others that Scof<g ref="char:EOLhyphen"/>fingly by their Words, or Snearingly by the Language of their Eyes, one upon another, abounding only in their own Senſe, and the common Senſe
+<pb n="74" facs="tcp:137080:46"/>of the World, will be apt to contemn, and think meanly of the Author, for thus expo<g ref="char:EOLhyphen"/>ſing his own Imperfections.</p>
+            <p>Theſe are to be pittied;</p>
+            <p>That their Humours are ſo conformed to the Simili<g ref="char:EOLhyphen"/>tude of this World; For they may as well Ridicule the Bleſ<g ref="char:EOLhyphen"/>ſed Apoſtles for Recording their Failings and Miſcarriages; but I bleſs God I am arrived to St. <hi>Pauls</hi> Temper, <hi>To Glo<g ref="char:EOLhyphen"/>ry in the things which concern mine Infirmities.</hi>
+               <note place="margin">2 Corrin. 11.30.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> There are others that are frequently buffeted with <hi>Satan,</hi> and are under dolorous Temp<g ref="char:EOLhyphen"/>tations.</p>
+            <pb n="75" facs="tcp:137080:46"/>
+            <p> Theſe are to be comforted;</p>
+            <p>Good Chriſtians, Read, Stu<g ref="char:EOLhyphen"/>dy, and conſider all thoſe innu<g ref="char:EOLhyphen"/>merable Star-like Promiſes, which the Heavenly Book of God is beſpangled withal: Conſider what multitudes of Examples and Deliverances God hath given to his Church and People, in all Ages; to me the moſt unworthy of all his Servants, amongſt the reſt. Ponder well the foregoing ex<g ref="char:EOLhyphen"/>periences, and a Divine bleſ<g ref="char:EOLhyphen"/>ſing accompany your Medita<g ref="char:EOLhyphen"/>tions: <hi>Be ſtrong in the Lord,
+<note place="margin">Eph. 6.10</note> and in the Power of his Might; for God ſhall ſhortly tread down Satan under your Feet;</hi>
+               <note place="margin">Romans 16.20.</note> hold out therefore to the end,
+<pb n="76" facs="tcp:137080:47"/>
+               <hi>And be Faithful to Chriſt to Death, and he will give you the Crown of Life.</hi>
+               <note place="margin">Rev. 2.10</note>
+            </p>
+            <p>But to haſten to an end, having by the Mercy and goodneſs of Almighty God, paſſed through this Fire of Af<g ref="char:EOLhyphen"/>fliction, and through this Sea of Trouble, and Arrived at the Haven of a long experi<g ref="char:EOLhyphen"/>enced Recovery; and having, through Divine Providence, changed my condition with a Perſon of Vertue, and of a good Family, by whom God, as an Emblem and Pledge of his Love, hath given me one Child, I Lived in happy Peace and Tranquility.</p>
+            <p>Now (as the Apoſtle ſaith)
+<pb n="77" facs="tcp:137080:47"/>
+               <hi>Fighting the good Fight of Faith, that I may finiſh my Courſe with Joy, Seeing that from henceforth,
+<note place="margin">2 Tim. 4.7, 8.</note> is laid up for me the Crown of Righteouſneſs, which God the Righteous Judge ſhall give me at that day: and not to me only, but to all that Love his appearing.</hi> And therefore with Angels, and Arch-angels, and all the Heavenly Hoſt, for this Glo<g ref="char:EOLhyphen"/>rious Deliverance; I Bleſs and Magnifie thy Name, Oh Lord! <hi>World without End,</hi> Amen.</p>
+            <closer>Glory to God in the higheſt, On Earth Peace, Good will towards Men.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
